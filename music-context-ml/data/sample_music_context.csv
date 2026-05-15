@@ -1,0 +1,6 @@
+user_id,track_id,track_name,artist,danceability,energy,valence,tempo,activity_tag,emotion_tag,time_of_day,liked,skipped,replayed
+u001,t001,Song A,Artist A,0.72,0.81,0.65,120,workout,happy,morning,1,0,1
+u002,t002,Song B,Artist B,0.45,0.38,0.30,80,study,calm,night,1,0,0
+u003,t003,Song C,Artist C,0.60,0.70,0.55,100,commute,focus,afternoon,0,1,0
+u004,t004,Song D,Artist D,0.30,0.25,0.20,70,night,sad,night,1,0,1
+u005,t005,Song E,Artist E,0.85,0.90,0.80,128,party,happy,night,1,0,1
