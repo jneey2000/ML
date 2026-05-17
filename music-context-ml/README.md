@@ -58,3 +58,15 @@ Behavior:
 - skip
 - replay
 - like
+
+## DAY2 EDA
+
+Initial exploratory analysis includes:
+
+- dataset statistics
+- feature distributions
+- user behavior labels
+
+Target variable:
+
+liked
